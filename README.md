@@ -2,6 +2,6 @@
 
 This problem set covers visualization of brain data using Python.
 
-Grade:
+Grade (out of 10):
 
 Comments:
